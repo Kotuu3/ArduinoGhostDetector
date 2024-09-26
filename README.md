@@ -1,6 +1,7 @@
 
 ![Logo](https://github.com/Kotuu3/ArduinoGhostDetector/blob/main/logo2.png?raw=true)
 
+# the readme is not done yet, few crucial things are missing here but i will add them later
 
 # ArduinoGhostDetector
 
