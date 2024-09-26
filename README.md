@@ -5,7 +5,7 @@
 # ArduinoGhostDetector
 
 Simple Arduino EMF / Ghost Detector \
-While watching ghost hunting videos you for sure saw device called "K2", you can buy it on aliexpress or amazon for few bucks but why would you, when you can do it yourself and impress your friends on this halloween 🎃 
+While watching ghost hunting videos you for sure saw device called "K2", you can buy it on aliexpress or amazon for few bucks but why would you, when you can do it yourself and impress your friends this halloween 🎃 
 ## Demo
 
 You can see how it (kinda) works [here](https://streamable.com/h38kbq)
